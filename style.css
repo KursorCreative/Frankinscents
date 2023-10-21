@@ -19,6 +19,9 @@ p {
 .logo img {
   width: 70%; /* You can adjust this percentage based on your logo's appearance */
 }
+.logo {
+  margin-bottom: 10px; /* adjust this value as required */
+}
 
 .btn-outline-dark:hover {
   background-color: #333;
