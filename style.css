@@ -32,6 +32,28 @@ p {
   background-color: #333;
   color: #fff;
 }
+body {
+  /* URL of your background image */
+  background-image: url('/images/assets/kursorcreative_advert_mockup__wallpaper_website_background_cand_85239438-a953-4ff6-9579-447f88704c07.png'); 
+
+  /* Cover ensures the background image covers the entire viewport */
+  background-size: cover; 
+
+  /* The background image will be positioned in the center of the viewport */
+  background-position: center center; 
+
+  /* Ensures the image doesn't repeat */
+  background-repeat: no-repeat; 
+
+  /* Optional: Fixed will ensure the image stays in position when user scrolls */
+  background-attachment: fixed; 
+
+  /* Your other body styles go here */
+  font-family: 'Open Sans', sans-serif;
+  background-color: #fafafa;
+  color: #333;
+}
+
 
 @media (max-width: 576px) { /* For mobile devices */
   .logo img {
