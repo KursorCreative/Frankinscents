@@ -58,7 +58,10 @@ a:hover {
   background-color: #f5f5f5;
   border-radius: 8px; /* Round the edges of the logo container */
 }
-
+.logo > img {
+  max-height: 70px !important;
+  width: auto !important;
+}
 .logo img {
   max-height: 70px;
   width: auto;
