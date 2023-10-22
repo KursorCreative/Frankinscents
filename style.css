@@ -11,7 +11,7 @@ body::before {
   /* Ensure the overlay appears beneath the actual content */
   z-index: -1; 
 }
-body 
+body {
   font-family: 'Open Sans', sans-serif;
   color: #333333; 
   position: relative; 
@@ -29,7 +29,7 @@ body
   background-repeat: no-repeat; 
 
   /* Optional: Fixed will ensure the image stays in position when user scrolls */
-  background-attachment: fixed; 
+  background-attachment: fixed; }
 .container {
   max-width: 600px;
 }
