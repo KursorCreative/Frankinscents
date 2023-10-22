@@ -30,6 +30,7 @@ body {
 
   /* Optional: Fixed will ensure the image stays in position when user scrolls */
   background-attachment: fixed; }
+  
 .container {
   max-width: 600px;
 }
