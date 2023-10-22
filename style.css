@@ -15,7 +15,8 @@ body::before {
 
 body {
   font-family: 'Open Sans', sans-serif;
-  color: #333; position: relative; 
+  color: #333; 
+  position: relative; 
 
   /* URL of your background image */
   background-image: url('/images/assets/kursorcreative_advert_mockup__wallpaper_website_background_cand_85239438-a953-4ff6-9579-447f88704c07.png'); 
